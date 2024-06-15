@@ -1,3 +1,5 @@
+## KAN
+
 Efficient Implementation of Kolmogorov-Arnold Network (KAN)
 This repository contains an optimized implementation of the Kolmogorov-Arnold Network (KAN), designed to enhance performance and interpretability.
 
